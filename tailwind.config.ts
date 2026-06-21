@@ -11,6 +11,8 @@ const config: Config = {
         "ink-mute": "#6B6F76",
         navy: "#1C2B4A",
         "navy-deep": "#141F38",
+        gold: "#C2A14D",
+        "gold-soft": "#D8BE78",
         hair: "#E6E3DC",
       },
       fontFamily: {
